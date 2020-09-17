@@ -2,4 +2,4 @@
 
 Estamos modificando el archivo
 cambios
-trabajo de edi
+Reparando bugs
